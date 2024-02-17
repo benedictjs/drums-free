@@ -1,5 +1,5 @@
 # demo
-Describing Drums kits
+Describing Drums kits.
 This is added for editing purpose
 ## This is level 2 heading
 This is unordered List
